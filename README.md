@@ -1,0 +1,2 @@
+# slots-rabbit
+IN PROGRESS - RABBITMQ CONSUMER
